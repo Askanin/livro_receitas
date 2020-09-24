@@ -2,4 +2,5 @@
 
 ola! Bem vindo ao livro de receitas.
 
-- Strogonoff.
+- Strogonoff de Frango.
+- Pave
